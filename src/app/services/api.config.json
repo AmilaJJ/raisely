@@ -1,0 +1,6 @@
+{
+  "BASE_URL": "https://api.raisely.com/v3/",
+  "emailValidity": "check-user",
+  "signup":"signup"
+
+}
